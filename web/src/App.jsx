@@ -4,8 +4,10 @@ const Title = (props) =>(
 export function App()
   {
     return (
-      <div className="app">
+      <div className="bg-red-500">
         <Title>Olá Mundo!!!</Title>
+        <Title>Olá Mundo 2!!!</Title>
+        <Title>Olá Mundo 3!!!</Title>
       </div>
     )
   }
